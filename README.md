@@ -1,0 +1,3 @@
+# README #
+
+This is the project solution by K Kohv for the Business Process Mining course Spring 2023. The solution is in the files "duration_prediction.ipynb" and "outcome_prediction" All other files originate from: https://bitbucket.org/mcamargo85/remainingt_prediction/src/master/ If in the Jupyer Notebooks there is a reference to the "practice materials", then it also means the source mentioned in the previous sentence.
